@@ -7,7 +7,10 @@ cache/
 combined/
 combine/
 compiled/
-dist/
+
+# Avoid ignoring dist folder to make the package compatible with bower
+# dist/
+
 tmp/
 temp/
 *.swp
